@@ -3,6 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
+<<<<<<< Updated upstream
 const RESOURCES = {"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -24,17 +25,53 @@ const RESOURCES = {"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/AssetManifest.json": "ced2a4673f3ad99f3ba15694568dcb7e",
 "assets/FontManifest.json": "fb474304af2b74c2d4fdb1fff4ab5224",
+=======
+const RESOURCES = {"version.json": "826c6fd5a18d5d3a062f223ddbf623c9",
+"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
+"assets/FontManifest.json": "fb474304af2b74c2d4fdb1fff4ab5224",
+"assets/NOTICES": "0676f3ce6484ff6630a3076df6f197ec",
+"assets/AssetManifest.bin": "059b46d2872c8d1249325ee55e5c44cc",
+>>>>>>> Stashed changes
 "assets/AssetManifest.bin.json": "b6ff0f02517b7ff0e64ecbc6033bf38c",
 "assets/fonts/OverpassMono-SemiBold.ttf": "76548b7fb13d7a5ee82392c136bfeb24",
 "assets/fonts/MaterialIcons-Regular.otf": "a3e0d65b41683d1cbd31b11af652e9c3",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
+<<<<<<< Updated upstream
 "assets/AssetManifest.bin": "059b46d2872c8d1249325ee55e5c44cc",
 "index.html": "b5ab419508000a32b41107e1a5fa5a84",
 "/": "b5ab419508000a32b41107e1a5fa5a84"};
+=======
+"assets/AssetManifest.json": "ced2a4673f3ad99f3ba15694568dcb7e",
+"index.html": "017cbd8e83e8a3621f78147d7309347a",
+"/": "017cbd8e83e8a3621f78147d7309347a",
+"canvaskit/canvaskit.wasm": "1f237a213d7370cf95f443d896176460",
+"canvaskit/chromium/canvaskit.wasm": "b1ac05b29c127d86df4bcfbf50dd902a",
+"canvaskit/chromium/canvaskit.js.symbols": "a012ed99ccba193cf96bb2643003f6fc",
+"canvaskit/chromium/canvaskit.js": "87325e67bf77a9b483250e1fb1b54677",
+"canvaskit/skwasm.wasm": "9f0c0c02b82a910d12ce0543ec130e60",
+"canvaskit/canvaskit.js.symbols": "48c83a2ce573d9692e8d970e288d75f7",
+"canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
+"canvaskit/skwasm.js.symbols": "262f4827a1317abb59d71d6c587a93e2",
+"canvaskit/skwasm.js": "9fa2ffe90a40d062dd2343c7b84caf01",
+"canvaskit/canvaskit.js": "5fda3f1af7d6433d53b24083e2219fa0",
+"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
+"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
+"main.dart.js": "1e171f98540d9bd8ff6397a87515267c",
+"manifest.json": "35fa454dd7b942b4bc956a3fc5aed8ed",
+"flutter.js": "f31737fb005cd3a3c6bd9355efd33061",
+"flutter_bootstrap.js": "8d72447f094026df126bc3f158ef36e7"};
+>>>>>>> Stashed changes
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
 "index.html",
+<<<<<<< Updated upstream
+=======
+"flutter_bootstrap.js",
+>>>>>>> Stashed changes
 "assets/AssetManifest.bin.json",
 "assets/FontManifest.json"];
 
